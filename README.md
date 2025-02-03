@@ -1,7 +1,11 @@
 # Project-01
 
-# Your Name
+# Josephine Dugger
 
-# Your Github username
+# Jmdugg
 
-# List the things you added for points
+# Added main story with 21 knots 
+# Added health variable
+# Added torches variable
+# Added time variable
+# Added two major choices that can be seen reflected in options and dialouge
